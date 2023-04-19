@@ -27,5 +27,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "babel.config.js",
+  "devDependencies": {
+    "jest-dev-server": "^8.0.5"
+  },
+  "author": "",
+  "license": "ISC"
 }
